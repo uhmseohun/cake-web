@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="26.386" height="29.715" viewBox="0 0 26.386 29.715">
-  <g id="turn-off" transform="translate(-11.018 0.5)">
-    <g id="그룹_9" data-name="그룹 9" transform="translate(11.518)">
-      <path id="패스_4" data-name="패스 4" d="M33.186,46.884a1.084,1.084,0,0,0-1.533,1.533,10.529,10.529,0,1,1-14.889,0,1.084,1.084,0,1,0-1.533-1.533,12.7,12.7,0,1,0,17.955,0Z" transform="translate(-11.518 -39.837)" fill="#505050" stroke="#505050" stroke-width="1"/>
-      <path id="패스_5" data-name="패스 5" d="M92.916,14.041A1.084,1.084,0,0,0,94,12.957V1.084a1.084,1.084,0,0,0-2.168,0V12.957A1.084,1.084,0,0,0,92.916,14.041Z" transform="translate(-80.226)" fill="#505050" stroke="#505050" stroke-width="1"/>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="26.386" height="29.715" viewBox="0 0 26.386 29.715"><g id="turn-off" transform="translate(-11.018 0.5)"><g id="그룹_9" data-name="그룹 9" transform="translate(11.518)"><path id="패스_4" fill="#505050" stroke="#505050" stroke-width="1" d="M33.186,46.884a1.084,1.084,0,0,0-1.533,1.533,10.529,10.529,0,1,1-14.889,0,1.084,1.084,0,1,0-1.533-1.533,12.7,12.7,0,1,0,17.955,0Z" data-name="패스 4" transform="translate(-11.518 -39.837)"/><path id="패스_5" fill="#505050" stroke="#505050" stroke-width="1" d="M92.916,14.041A1.084,1.084,0,0,0,94,12.957V1.084a1.084,1.084,0,0,0-2.168,0V12.957A1.084,1.084,0,0,0,92.916,14.041Z" data-name="패스 5" transform="translate(-80.226)"/></g></g></svg>
