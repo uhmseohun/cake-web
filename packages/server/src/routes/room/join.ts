@@ -23,6 +23,13 @@ router.post('/:roomID', expressAsyncHandler(
         });
     }
 
+    if (room.max <= room.users.length) {
+      return res.status(403)
+        .json({
+          message: '이미 꽉 찬 방입니다.'
+        })
+    }
+
     const { uid }: { uid: string } = user;
     if (!room.users.includes(uid)) {
       room.users.push(user.uid);
